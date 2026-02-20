@@ -13,17 +13,19 @@ name: ANTIGRAVITY Daily Scan
 
 on:
   schedule:
-    - cron: '40 11 * * *'   # 06:40 Bogotá → 07:00 window
-    - cron: '40 15 * * *'   # 10:40 Bogotá → 11:00 window
-    - cron: '40 19 * * *'   # 14:40 Bogotá → 15:00 window
-    - cron: '40 23 * * *'   # 18:40 Bogotá → 19:00 window
-    - cron: '40 3  * * *'   # 22:40 Bogotá → 23:00 window
-  workflow_dispatch:          # Allow manual trigger from GitHub UI
+    - cron: "40 11 * * *" # 06:40 Bogotá → 07:00 window
+    - cron: "40 15 * * *" # 10:40 Bogotá → 11:00 window
+    - cron: "40 19 * * *" # 14:40 Bogotá → 15:00 window
+    - cron: "40 23 * * *" # 18:40 Bogotá → 19:00 window
+    - cron: "40 3  * * *" # 22:40 Bogotá → 23:00 window
+  workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -35,8 +37,8 @@ jobs:
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
