@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# Personal / secrets
+.env
+*.key
+
+# Windows TaskScheduler scripts (local only)
+setup_tasks.ps1
+run_scan.bat
+
+# Logs / debug files
+debug_*.py
+check_*.py
+verify_*.py
+analyze_*.py
+search_*.py
+read_results.py
+specific_analysis.txt
+specific_results_utf8.txt
+specific_pair_check.csv
+opportunities.csv
+scan_results.txt
+scan_report.md
+REPORT.md
+SETUP.md

@@ -1,0 +1,57 @@
+# ANTIGRAVITY — GitHub Actions Workflow
+# Runs the arbitrage scanner 5 times daily (Bogotá UTC-5 schedule)
+# and commits scan_history.md back to the repo automatically.
+#
+# Schedule (UTC):
+#   06:40 Bogotá = 11:40 UTC  → 07:00 window
+#   10:40 Bogotá = 15:40 UTC  → 11:00 window
+#   14:40 Bogotá = 19:40 UTC  → 15:00 window
+#   18:40 Bogotá = 23:40 UTC  → 19:00 window
+#   22:40 Bogotá = 03:40 UTC  → 23:00 window
+
+name: ANTIGRAVITY Daily Scan
+
+on:
+  schedule:
+    - cron: '40 11 * * *'   # 06:40 Bogotá → 07:00 window
+    - cron: '40 15 * * *'   # 10:40 Bogotá → 11:00 window
+    - cron: '40 19 * * *'   # 14:40 Bogotá → 15:00 window
+    - cron: '40 23 * * *'   # 18:40 Bogotá → 19:00 window
+    - cron: '40 3  * * *'   # 22:40 Bogotá → 23:00 window
+  workflow_dispatch:          # Allow manual trigger from GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use token with write access to allow committing results
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run arbitrage scan
+        run: python advanced_scan.py
+
+      - name: Log top 3 opportunities
+        run: python log_top3.py
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "ANTIGRAVITY Bot"
+          git add scan_history.md advanced_opportunities.csv
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "scan: auto update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
