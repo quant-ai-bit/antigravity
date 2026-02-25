@@ -61,3 +61,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **ENSO/USDT** | 1.0749% | okx | -0.5831% | deepcoin | 0.4918% | $359.2k | $94.1k | ✅ |
