@@ -108,3 +108,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+
