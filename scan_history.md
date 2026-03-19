@@ -315,3 +315,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **DEGO/USDT** | 0.5989% | gateio | -0.7145% | toobit | -0.1156% | $25.5k | $141.8k | ✅ |
+
