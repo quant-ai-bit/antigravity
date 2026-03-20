@@ -325,3 +325,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **WAXP/USDT** | 0.5000% | toobit | -2.0000% | bitget | -1.5000% | $107.2k | $18.0k | ❌ |
