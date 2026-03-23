@@ -351,3 +351,9 @@
 | 11:00 | 3 | **SIREN/USDT** | 0.7900% | bingx | -2.7900% | htx | -2.0000% | $93.0k | $17.1k | ❌ |
 
 
+
+## 📅 2026-03-23
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
