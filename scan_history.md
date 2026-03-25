@@ -379,3 +379,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **XBR/USDT** | 0.5352% | gateio | 0.0300% | toobit | 0.5652% | $218.2k | $112.6k | ❌ |
+| 07:00 | 3 | **MSFT/USDT** | 0.6460% | bitmex | -0.6180% | toobit | 0.0280% | $18.8k | $68.9k | ❌ |
