@@ -425,3 +425,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **BARD/USDT** | 0.4411% | bingx | -0.5583% | toobit | -0.1172% | $6.0k | $9.2k | ❌ |
+
