@@ -500,3 +500,9 @@
 | 11:00 | 3 | **SAHARA/USDT** | 2.0540% | bingx | -0.8500% | deepcoin | 1.2040% | $12.7k | $8.0k | ✅ |
 
 
+
+## 📅 2026-04-05
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
