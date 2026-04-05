@@ -506,3 +506,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **PIPPIN/USDT** | 0.7892% | bitget | 0.0412% | toobit | 0.8304% | $23.0k | $16.8k | ❌ |
