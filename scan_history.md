@@ -528,3 +528,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **KERNEL/USDT** | 0.6837% | bitget | -0.6836% | toobit | 0.0001% | $6.8k | $6.0k | ❌ |
+| 07:00 | 3 | **BARD/USDT** | 0.7676% | okx | -1.0857% | bitget | -0.3181% | $138.6k | $18.0k | ❌ |
