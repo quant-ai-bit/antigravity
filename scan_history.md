@@ -538,3 +538,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **TQQQX/USDT** | 1.3669% | gateio | 0.0200% | toobit | 1.3869% | $16.6k | $9.5k | ❌ |
+
