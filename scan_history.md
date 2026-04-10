@@ -560,3 +560,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **GOOGLX/USDT** | 0.4454% | gateio | 0.0000% | coinex | 0.4454% | $20.5k | $15.5k | ✅ |
+| 07:00 | 3 | **RAVE/USDT** | 0.5650% | okx | -0.3417% | bitget | 0.2233% | $901.0k | $353.2k | ❌ |
