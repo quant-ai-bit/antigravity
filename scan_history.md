@@ -676,3 +676,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **SKYAI/USDT** | 0.5541% | gateio | 0.2776% | bitget | 0.8317% | $6.1k | $198.4k | ✅ |
