@@ -754,3 +754,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **SIREN/USDT** | 0.4352% | htx | -0.7097% | bingx | -0.2745% | $7.5k | $15.7k | ❌ |
+
