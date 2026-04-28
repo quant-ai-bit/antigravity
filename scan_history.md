@@ -764,3 +764,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **CRCLX/USDT** | 0.5312% | coinex | -0.5312% | gateio | 0.0000% | $53.8k | $7.5k | ✅ |
+| 07:00 | 3 | **ORCA/USDT** | 0.4098% | bingx | -0.4096% | toobit | 0.0002% | $45.5k | $885.7k | ❌ |
