@@ -792,3 +792,9 @@
 
 
 | 19:00 | 3 | **ENSO/USDT** | 0.4334% | gateio | -0.7734% | toobit | -0.3400% | $5.2k | $164.3k | ✅ |
+
+## 📅 2026-05-01
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
