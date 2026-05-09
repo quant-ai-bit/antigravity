@@ -888,3 +888,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **GOOGLX/USDT** | 0.4125% | gateio | 0.0000% | coinex | 0.4125% | $16.1k | $21.3k | ✅ |
+
