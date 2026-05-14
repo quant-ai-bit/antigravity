@@ -945,3 +945,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **PIEVERSE/USDT** | 0.7346% | bingx | 0.0097% | toobit | 0.7443% | $9.9k | $26.1k | ❌ |
