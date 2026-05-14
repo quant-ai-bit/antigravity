@@ -947,3 +947,4 @@
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
 | 07:00 | 3 | **PIEVERSE/USDT** | 0.7346% | bingx | 0.0097% | toobit | 0.7443% | $9.9k | $26.1k | ❌ |
 | 11:00 | 3 | **PIEVERSE/USDT** | 0.6435% | bingx | 0.0182% | toobit | 0.6617% | $5.5k | $19.0k | ❌ |
+| 15:00 | 3 | **QCOM/USDT** | 0.4368% | toobit | 0.0645% | gateio | 0.5013% | $44.2k | $49.5k | ✅ |
