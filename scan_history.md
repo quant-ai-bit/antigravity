@@ -939,3 +939,9 @@
 
 | 15:00 | 3 | **SIREN/USDT** | 0.5890% | bitget | -1.6620% | toobit | -1.0730% | $133.0k | $63.1k | ❌ |
 | 19:00 | 3 | **CL/USDT** | 0.4024% | coinex | -0.4024% | bitget | 0.0000% | $6.1k | $27.4k | ✅ |
+
+## 📅 2026-05-14
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
