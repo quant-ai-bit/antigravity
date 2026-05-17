@@ -979,3 +979,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **QCOM/USDT** | 0.6319% | toobit | 0.0245% | gateio | 0.6564% | $33.2k | $31.4k | ✅ |
+
