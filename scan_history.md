@@ -1006,3 +1006,9 @@
 | 11:00 | 3 | **ENJ/USDT** | 1.0409% | bitget | -0.3586% | deepcoin | 0.6823% | $11.4k | $18.0k | ❌ |
 | 15:00 | 3 | **ENJ/USDT** | 0.5238% | bitget | -0.1721% | deepcoin | 0.3517% | $5.5k | $8.1k | ❌ |
 
+
+## 📅 2026-05-20
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
