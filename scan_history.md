@@ -1072,3 +1072,11 @@
 
 
 | 19:00 | 3 | **ESPORTS/USDT** | 1.0311% | bingx | -0.0653% | deepcoin | 0.9658% | $15.1k | $54.2k | ❌ |
+
+## 📅 2026-05-26
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | 1 | **ESPORTS/USDT** | 2.3234% | bitget | -2.0000% | deepcoin | 0.3234% | $16.4k | $16.1k | ❌ |
+| 07:00 | 2 | **ESPORTS/USDT** | 1.9251% | bitget | -2.0000% | bingx | -0.0749% | $16.5k | $5.1k | ❌ |
+| 07:00 | 3 | **ESPORTS/USDT** | 1.4973% | bitget | -2.0000% | toobit | -0.5027% | $16.4k | $11.9k | ❌ |
