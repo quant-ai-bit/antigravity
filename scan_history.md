@@ -1090,3 +1090,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **DRIFT/USDT** | 0.4238% | bitget | -0.2538% | deepcoin | 0.1700% | $7.6k | $16.2k | ❌ |
+| 07:00 | 3 | **ESPORTS/USDT** | 0.4488% | deepcoin | -0.4438% | bitget | 0.0050% | $18.3k | $7.6k | ❌ |
