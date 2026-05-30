@@ -1122,3 +1122,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | — | *Sin oportunidades con Vol ≥ $5,000* | — | — | — | — | — | — | — | — |
+| 07:00 | 3 | **NFP/USDT** | 0.5194% | gateio | -0.3945% | deepcoin | 0.1249% | $5.9k | $19.3k | ❌ |
