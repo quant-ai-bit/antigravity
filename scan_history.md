@@ -1132,3 +1132,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **STEEM/USDT** | 0.9754% | bitget | -0.9753% | toobit | 0.0001% | $5.7k | $6.1k | ❌ |
+| 07:00 | 3 | **ZORA/USDT** | 1.7738% | toobit | -0.6657% | deepcoin | 1.1081% | $11.4k | $18.4k | ❌ |
