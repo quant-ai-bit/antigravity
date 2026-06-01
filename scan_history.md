@@ -1142,3 +1142,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **AERGO/USDT** | 0.5268% | deepcoin | -2.4731% | toobit | -1.9463% | $13.8k | $8.9k | ❌ |
+| 11:00 | 3 | **HOME/USDT** | 0.5049% | bingx | -0.6743% | okx | -0.1694% | $18.8k | $145.8k | ✅ |
