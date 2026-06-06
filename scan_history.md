@@ -1198,3 +1198,4 @@
 | Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
 |------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
 | 07:00 | 1 | **ASTS/USDT** | 0.5420% | toobit | -0.5420% | bitget | 0.0000% | $6.5k | $5.6k | ❌ |
+
