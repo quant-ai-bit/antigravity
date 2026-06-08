@@ -1213,3 +1213,11 @@
 | 11:00 | 3 | **ESPORTS/USDT** | 0.4094% | bingx | -0.1138% | bitget | 0.2956% | $7.3k | $6.2k | ❌ |
 
 | 19:00 | 3 | **SKHYNIX/USDT** | 0.7787% | bitget | 0.1000% | gateio | 0.8787% | $18.8k | $11.0M | ❌ |
+
+## 📅 2026-06-08
+
+| Hora | # | Par | Spread | Long Exchange | Rate Long | Short Exchange | Rate Short | Vol L | Vol S | Asim |
+|------|---|-----|--------|---------------|-----------|----------------|------------|-------|-------|------|
+| 07:00 | 1 | **ESPORTS/USDT** | 2.3984% | toobit | -1.5862% | deepcoin | 0.8122% | $91.5k | $133.8k | ❌ |
+| 07:00 | 2 | **ESPORTS/USDT** | 2.3862% | toobit | -1.5862% | bitget | 0.8000% | $91.7k | $70.4k | ❌ |
+| 07:00 | 3 | **ESPORTS/USDT** | 2.2882% | toobit | -1.5862% | bingx | 0.7020% | $91.7k | $38.4k | ❌ |
